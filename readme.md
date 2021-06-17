@@ -1,1 +1,1 @@
-# Odoo Database No Expiration
+# Odoo EE with Database no expiration
