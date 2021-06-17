@@ -12,7 +12,7 @@
     "description": """
     Database no expired with enterprise edition.
     """,
-    "depends": ["base"],
+    "depends": ["base", "mail"],
     "data": [],
     "qweb": ["static/src/xml/*.xml", ],
     "demo": [],
