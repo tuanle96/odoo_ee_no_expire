@@ -1,7 +1,7 @@
 
 {
     "name": "Odoo EE No Expiration",
-    "version": "13.0.1.0.0",
+    "version": "16.0.1.0.0",
     "author": "Justin Le Anh Tuan <justin.le.1105@gmail.comm>",
     "category": "Tools",
     "license": "LGPL-3",
